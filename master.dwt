@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<link href="styles/style3.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.style1 {
+	color: #AA6600;
+	text-decoration: underline;
+}
+</style>
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead">
+		<h2>PROBLEMAS DE APRENDIZAJE EN LOS NIÑOS</h2>
+		<h3>Como Puedo Ayudar a mi Hijo</h3>
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+		<ul>
+			<li><a href="default.htm">Incio</a></li>
+			<li><a href="about/about.htm">Alumnos</a></li>
+			<li><a href="news/news.htm">Características Aprendizaje</a></li>
+			<li><a href="calendar/calendar.htm">Problemas</a></li>
+			<li><a href="photo_gallery/photo_gallery.htm">Fotos</a></li>
+			<li><a href="information_links/information_links.htm">Problemas 
+			Aprendizaje</a></li>
+			<li><a href="faq/faq.htm">Psicoanálisis</a></li>
+			<li><a href="contact/contact.htm">Contactanos</a></li>
+			</ul>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Content -->
+	<div id="content">
+		<!-- #BeginEditable "content" -->
+		<h2>Heading 2</h2>
+		<p>insert content here</p>
+		<!-- #EndEditable "content" --></div>
+	<!-- End Content -->
+	<!-- Begin Footer -->
+	<div id="footer">
+		<p><a href="default.htm">Inicio</a> | <a href="about/about.htm">Alumnos</a> |
+		<a href="news/news.htm">Características</a> | <a href="calendar/calendar.htm">Problemas</a> 
+		| <a href="photo_gallery/photo_gallery.htm">Fotos</a> |
+		<a href="information_links/information_links.htm"><span class="style1">
+		Problemas aprendizaje</span></a> |
+		<a href="faq/faq.htm">Psicoanálisis</a> | <a href="contact/contact.htm">Contactanos</a></p>
+	</div>
+	<!-- End Footer --></div>
+<!-- End Container -->
+
+</body>
+
+</html>
