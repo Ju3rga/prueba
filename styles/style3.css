@@ -1,0 +1,127 @@
+﻿@import url("layout.css");
+*{
+	border: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Helvetica, Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	background-color: #764;
+	background-image: url("../images/background.gif");
+	background-attachment: scroll;
+}
+
+
+#container {
+	width: 700px;
+	margin: 10px auto;
+}
+#masthead {
+	text-align: center;
+	width: 698px;
+	border: 1px solid #431;
+	/*background-color: #fff;*/
+	background-image: url("../images/masthead.gif");
+	background-repeat: repeat;
+	background-attachment: scroll;
+}
+#navigation {
+	position: relative;
+	float: left;
+	width: 148px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #431;
+	background-color: #fff;
+}
+
+
+
+#content {
+	float: left;
+	width: 518px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding: 10px;
+	border: 1px solid #431;
+	background-color: #fff;
+}
+#footer {
+	text-align: center;
+	clear: both;
+	width: 720px;
+	border: 1px solid #431;
+	background-color: orange;
+}
+/* Masthead Styles */
+#masthead h1 {
+	color: #b71;
+}
+#masthead h3 {
+	color: #542;
+}
+/* Navigation Styles */
+#navigation ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: block;
+}
+#navigation li {
+	float: left;
+}
+#navigation li a {
+	color: blue;
+	text-decoration: none;
+	display: block;
+	padding: 16px;
+	/*border: 1px solid #fff;*/
+	background-color: #fff;
+}
+#navigation a:hover {
+	color: #fff;
+	text-decoration: none;
+	border: 1px solid #964;
+	background-color: #964;
+}
+/* Content Styles */
+#content h1,h2,h3,h4,h5,h6 {
+	color: #c82;
+}
+#content img {
+	padding: 5px;
+	border: 1px solid #964;
+}
+/* Footer Styles */
+#footer p {
+	color: #808080;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+#footer a {
+	color: #a60;
+	text-decoration: underline;
+}
+#footer a:hover {
+	color: #853;
+	text-decoration: none;
+}
+a {
+	color: #a60;
+	text-decoration: underline;
+}
+a:hover {
+	color: #742;
+	text-decoration: underline;
+}
+.style_bold {
+	font-weight: bold;
+}
+.style_italic {
+	font-style: italic;
+}
