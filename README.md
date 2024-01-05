@@ -1,1 +1,1 @@
-# prueba
+This project I was made for some Students of Communication to get the final approval due to they didn't had the knowledge to create a website.
